@@ -9,8 +9,8 @@ def get_timestamp():
 	return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 class Fetch:
-	auth = "%s:%s" % ("rzfwch", "3edczaq1")
-	proxy_server = "proxy-amer.delphiauto.net:8080"
+	auth = "%s:%s" % ("", "")
+	proxy_server = ""
 	proxy_config = "http://%s@%s" % (auth, proxy_server)
 		
 	def __init__(self):
