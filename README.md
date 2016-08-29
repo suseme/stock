@@ -1,11 +1,9 @@
 ========
-Spider
+Stock
 ========
 
-Moved spider to [pyvin](https://github.com/susemm/PyVin).
-
 # Introduction
-A light framework for scribing content from web, written with python.  
+Fetch stock data via sina stock interface
 
 # Usage
 
